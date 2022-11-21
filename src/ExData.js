@@ -6,7 +6,7 @@ const educationHistory = [
         duration: "2012 – 2018",
         Des: [
             'Science and Mathematics Courses',
-            'GPA 3.14',
+            'GPA 3.08',
         ],
         link: 'http://www.skn.ac.th/skn/',
     },
@@ -18,7 +18,7 @@ const educationHistory = [
         Des: [
             'College of Industrial Technology(CIT)',
             'Electronic engineering technology (Computer Programming)',
-            'GPA 3.21'
+            'GPA 3.24'
         ],
         link: 'https://www.kmutnb.ac.th/',
     },
