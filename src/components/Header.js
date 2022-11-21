@@ -8,8 +8,8 @@ const Header = () => {
     <nav className='space-x-10'>
       <ul className='flex flex-row space-x-4 md:space-x-10 md:text-xl justify-center md:justify-start font-thin'>
         <li>
-          <a href='#Experience' className='py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg '>
-            Experience
+          <a href='#Education' className='py-1 px-5 hover:bg-gray focus:bg-gray rounded-lg '>
+            Education
           </a>
         </li>
         <li>

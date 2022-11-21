@@ -1,9 +1,9 @@
 import React from 'react'
 import educationHistory from '../ExData'
 import './style.ex.css'
-function Experience() {
+function Education() {
     return (
-        <div id="Experience">
+        <div id="Education">
             <section className='my-28 px-5' id='projects'>
                 <header className='text-2xl font-bold pt-10'>
                     <h2>Education</h2>
@@ -54,4 +54,4 @@ function Experience() {
     )
 }
 
-export default Experience
+export default Education

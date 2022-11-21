@@ -7,7 +7,7 @@ const Hero = lazy(() => import('./components/Hero'));
 const Project = lazy(() => import('./components/Project'));
 const Skill = lazy(() => import('./components/Skill'));
 const Contact = lazy(() => import('./components/Contact'));
-const Experience = lazy(() => import('./components/Experience'))
+const Education = lazy(() => import('./components/Education'))
 function App() {
 
   const [visible, setVisible] = useState(false)
@@ -40,7 +40,7 @@ function App() {
         <Header />
         <main>
           <Hero />
-          <Experience />
+          <Education />
           <Project />
           <Skill />
           <Contact />
