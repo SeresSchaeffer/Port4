@@ -1,4 +1,4 @@
-export const RESUME_PATH = 'https://drive.google.com/file/d/1Yf-g0ups0h3PcRy2ryp_oEwejK_CZ9_W/view?usp=sharing';
+export const RESUME_PATH = 'https://drive.google.com/file/d/1z192z7265ELdfSOjuEPw0ueRhcY-LlFx/view?usp=drive_link';
 export const GITHUB_USERNAME = 'SeresSchaeffer';
 export const FACEBOOK_USERNAME = 'peetarza';
 export const ADDRESS = 'Poramee';
