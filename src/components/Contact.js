@@ -74,14 +74,14 @@ const Contact = () => {
           <div className='flex flex-row flex-wrap mt-7'>
             
 
-            <div className='mr-4'>
+            {/* <div className='mr-4'>
               <a href={`https://github.com/${GITHUB_USERNAME}`} target='_blank' rel='noreferrer'>
                 <span className='mb-2 flex flex-row items-end border border-gray-500 p-2 rounded-lg text-sm'>
                   <img src='./images/icons/github.svg' alt='' width='24px' height='24px' className='mr-1' />
                   GitHub
                 </span>
               </a>
-            </div>
+            </div> */}
             <div className='mr-4'>
               <a href={`https://www.facebook.com/${FACEBOOK_USERNAME}`} target='_blank' rel='noreferrer'>
                 <span className='mb-2 flex flex-row items-end border border-gray-500 p-2 rounded-lg text-sm'>

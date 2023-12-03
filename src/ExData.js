@@ -14,11 +14,11 @@ const educationHistory = [
         schoolName : 'KMUTNB',
         schoolFullName : "King Mongkut's University of Technology North Bangkok",
         role: "bachelor's degree",
-        duration: "2019 – present",
+        duration: "2019 – 2022",
         Des: [
             'College of Industrial Technology(CIT)',
             'Electronic engineering technology (Computer Programming)',
-            'GPA 3.24'
+            'GPA 3.26'
         ],
         link: 'https://www.kmutnb.ac.th/',
     },
